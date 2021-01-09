@@ -285,7 +285,7 @@ li {
   font-family: 'Gotham', Montserrat, sans-serif;
   font-weight: 500;
   font-size: 12px;
-  text-transform: 12px;
+  text-transform: uppercase;
 }
 
 .filters-sort option {
