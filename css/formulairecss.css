@@ -58,3 +58,11 @@ button {
     width: 1000px;
     margin: 0;
 }
+
+@media (max-width: 800px) {
+  section.content {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+  }
+}

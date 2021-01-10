@@ -44,3 +44,14 @@ a.link-contact {
   margin-bottom: 10px;
   margin-top: 20px;
 }
+
+@media (max-width : 800px) {
+  section.content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .postes {
+    margin-left: 10px;
+  }
+}
